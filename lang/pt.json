@@ -1,0 +1,22 @@
+{
+    "Scan the QR code with the app of your bank, or copy the Pix code below.": "Escaneie o QR code com o app do seu banco ou copie o código Pix abaixo.",
+    "Pix QR code": "QR code Pix",
+    "Copy": "Copiar",
+    "Copied": "Copiado",
+    "The invoice is marked as paid once the payment is confirmed.": "A fatura é marcada como paga assim que o pagamento for confirmado.",
+    "I have paid": "Já paguei",
+    "Invoice": "Fatura",
+    "Pix identifier: :txid": "Identificador do Pix: :txid",
+    "Customer": "Cliente",
+    "Amount due": "Valor em aberto",
+    "Created": "Criada",
+    "Confirm Pix": "Confirmar Pix",
+    "Confirm the Pix of invoice :number": "Confirmar o Pix da fatura :number",
+    "End to end id": "ID da transação (E2E)",
+    "Amount received": "Valor recebido",
+    "Pix confirmed": "Pix confirmado",
+    "The invoice is paid.": "A fatura foi paga.",
+    "The invoice still has an amount due.": "A fatura ainda tem valor em aberto.",
+    "Pending invoices in BRL. Confirm one once its Pix is in the statement of the bank.": "Faturas pendentes em BRL. Confirme uma quando o Pix dela estiver no extrato do banco.",
+    "Optional. Shown on the receipt of the Pix in the bank; with it, the same Pix is never recorded twice.": "Opcional. Aparece no comprovante do Pix no banco; com ele, o mesmo Pix nunca é registrado duas vezes."
+}
