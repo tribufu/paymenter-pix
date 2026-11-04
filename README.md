@@ -3,6 +3,17 @@
 [Pix](https://www.bcb.gov.br/estabilidadefinanceira/pix) payments for [Paymenter](https://paymenter.org) invoices in
 Brazilian reais (BRL), with a QR code and the Pix copy and paste code. It works in two modes:
 
+[![MIT License][mit-badge]][mit-url]
+[![Discord Chat][discord-badge]][discord-url]
+
+[mit-badge]: https://img.shields.io/badge/license-MIT-blue.svg
+[mit-url]: https://github.com/tribufu/paymenter-pix/blob/main/LICENSE.txt
+[discord-badge]: https://img.shields.io/discord/276504514616623104.svg?logo=discord&style=flat-square
+[discord-url]: https://www.tribufu.com/discord
+
+[Website](https://www.tribufu.com) |
+[Discord](https://www.tribufu.com/discord)
+
 - **Pix API of the bank**: each payment is an immediate charge (`cob`) of the Pix API standard of the Central Bank of
   Brazil, offered by banks such as Banco Inter, Sicoob, Itaú, and Santander. The invoice is paid automatically when the
   webhook of the bank notifies the payment, or when the payer presses "I have paid". Either way the charge is read from
@@ -55,4 +66,6 @@ reachable from the internet over HTTPS. The webhook is rate limited per address.
 
 ## License
 
-[MIT](LICENSE.txt)
+This project is licensed under the [MIT License].
+
+[MIT License]: https://github.com/tribufu/paymenter-pix/blob/main/LICENSE.txt
